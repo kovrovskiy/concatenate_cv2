@@ -1,2 +1,2 @@
-# concatenate_cv2
-Concatenate multiple videos into 1 using Python
+# Concatenate_cv2
+Concatenate multiple videos into one using Python
